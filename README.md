@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Aniket Rajput.
+### Aspiring java Back-End Developer.
+Student at Masai School
 
 <!--
 **Aniket-code-creator/Aniket-code-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
