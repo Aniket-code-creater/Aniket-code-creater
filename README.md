@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Aniket Rajput</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img align="center" width="400" align="left" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
+<img align="center" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-code-creator&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-code-creator" /> </p>
 
@@ -16,6 +16,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tOBGYMkdjl88TXFnDC_ASCWuoA56tLYR/view?usp=share_link](https://drive.google.com/file/d/1tOBGYMkdjl88TXFnDC_ASCWuoA56tLYR/view?usp=share_link)
 
 - ⚡ Fun fact  **I think,i am funny**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-code-creator&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-code-creator" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-code-creator" alt="aniket-code-creator" /></a> </p>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
