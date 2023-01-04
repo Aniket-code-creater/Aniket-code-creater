@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Aniket Rajput</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img align="left" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
+<img align="right" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
 
 - 👨‍💻 All of my projects are available at [https://Aniket-code-creator.github.io](https://Aniket-code-creator.github.io)
 
