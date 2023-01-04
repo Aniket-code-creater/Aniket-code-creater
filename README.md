@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact  **I think,i am funny**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-code-creator&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-code-creator" /> </p>
-
+<p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-code-creator" alt="aniket-code-creator" /></a> </p>
 
 <h3 align="left">Connect with me: </h3>
