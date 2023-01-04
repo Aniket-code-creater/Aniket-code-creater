@@ -1,6 +1,7 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Aniket Rajput</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<p><img align="center" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" /></p>
+<img align="center" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-code-creator&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-code-creator" /> </p>
 
