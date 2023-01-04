@@ -9,15 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [https://Aniket-code-creator.github.io](https://Aniket-code-creator.github.io)
 
-- 💬 Ask me about **Java, Html, CSS, JavaScript,SQL**
+- 💬 Ask me about:  **Java, Html, CSS, JavaScript,SQL**
 
-- 📫 How to reach me **aniketmakwana1010@gmail.com**
+- 📫 How to reach me : **aniketmakwana1010@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tOBGYMkdjl88TXFnDC_ASCWuoA56tLYR/view?usp=share_link](https://drive.google.com/file/d/1tOBGYMkdjl88TXFnDC_ASCWuoA56tLYR/view?usp=share_link)
 
-- ⚡ Fun fact **I think,i am funny**
+- ⚡ Fun fact  **I think,i am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniket-rajput-465b01212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-rajput-465b01212" height="30" width="40" /></a>
 <a href="https://instagram.com/i_m_aniketrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_aniketrajput" height="30" width="40" /></a>
