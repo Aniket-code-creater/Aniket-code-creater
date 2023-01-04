@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="center" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-code-creator&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-code-creator" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-code-creator" alt="aniket-code-creator" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://Aniket-code-creator.github.io](https://Aniket-code-creator.github.io)
 
 - 💬 Ask me about:  **Java, Html, CSS, JavaScript,SQL**
