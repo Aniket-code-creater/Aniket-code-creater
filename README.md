@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniket-rajput-465b01212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-rajput-465b01212" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_aniketrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_aniketrajput" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/i_m_aniketrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_aniketrajput" height="30" width="40" /></a> -->
 <a href="https://www.hackerearth.com/@aniketmakwana101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aniketmakwana101" height="30" width="40" /></a>
 </p>
 
