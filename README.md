@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="right" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" alt="aniket-code-creator" />
 
-- 👨‍💻 All of my projects are available at [https://Aniket-code-creator.github.io](https://Aniket-code-creator.github.io)
+- 👨‍💻 All of my projects are available at [https://Aniket-code-creator.github.io/](https://Aniket-code-creator.github.io/)
 
 - 💬 Ask me about:  **Java, Html, CSS, JavaScript,SQL**
 
